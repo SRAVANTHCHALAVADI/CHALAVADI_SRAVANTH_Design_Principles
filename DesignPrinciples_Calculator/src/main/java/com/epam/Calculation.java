@@ -7,7 +7,7 @@ public class Calculation implements Calculate {
 		return (a+b);
 	}
 
-	public int mul(int a, int b) {
+	public double mul(int a, int b) {
 		// TODO Auto-generated method stub
 		return (a*b);
 	}
